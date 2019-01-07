@@ -12,7 +12,7 @@ function myFunction() {
       btnText.innerHTML = "Read less"; 
       moreText.style.display = "inline";
     }
-  }
+  }   
   function myFunction2() {
     var dots = document.getElementById("dots2");
     var moreText = document.getElementById("more2");
